@@ -4,11 +4,13 @@
 <div align="center"> 
   <h2>A passionate mobile application developer from India.</h2>
 </div>
+<p align="left">
 - 🔭 I’m currently working at Ventla India.
 - 🌱 I’m currently learning Xamarin, C#.
 - 💬 Ask me about CPP, JAVA, HTML, CSS.
 - 📫 How to reach me anurag.ad32@gmail.com
 - ⚡ Fun fact I am ambitious.
+ </p>
 
 <h2>&nbsp;Connect with me:</h2>
 <p align="left">
