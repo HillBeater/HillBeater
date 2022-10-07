@@ -14,5 +14,6 @@
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" alt="bash" width="45" height="45"/>
-<img src="https://firebase.google.com/static/downloads/brand-guidelines/SVG/logo-vertical.svg" alt="php" width="45" height="45"/>
+<img src="https://firebase.google.com/static/downloads/brand-guidelines/SVG/logo-logomark.svg" alt="php" width="45" height="45"/>
+<img src="https://www.svgrepo.com/show/43101/java.svg" alt="php" width="45" height="45"/>
 </p>
