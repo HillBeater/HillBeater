@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **anurag.ad32@gmail.com**
 
-- ⚡ Fun fact I am ambitious. **I am ambitious.**
+- ⚡ Fun fact **I am ambitious.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
