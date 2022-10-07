@@ -30,10 +30,10 @@
   <a href="https://www.w3schools.com/cs/index.php" target="_blank">
    <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="php" width="45" height="45"/>
   </a>  
-   <a href="https://visualstudio.microsoft.com/" target="_blank">
+   <a href="https://www.w3schools.com/html/default.asp" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="php" width="45" height="45"/>
    </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank">
+  <a href="https://www.w3schools.com/css/default.asp" target="_blank">
    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="php" width="45" height="45"/>
   </a>
 </p>
