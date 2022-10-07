@@ -24,10 +24,10 @@
   <a href="https://www.w3schools.com/java/" target="_blank">
    <img src="https://www.svgrepo.com/show/43101/java.svg" alt="php" width="45" height="45"/>
   </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank">
+  <a href="https://www.w3schools.com/cpp/default.asp" target="_blank">
    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="php" width="45" height="45"/>
   </a> 
-  <a href="https://visualstudio.microsoft.com/" target="_blank">
+  <a href="https://www.w3schools.com/cs/index.php" target="_blank">
    <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="php" width="45" height="45"/>
   </a>  
    <a href="https://visualstudio.microsoft.com/" target="_blank">
