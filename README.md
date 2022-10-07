@@ -13,7 +13,7 @@
 <h2>&nbsp;Connect with me:</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/anuragdhiman74/" target="_blank">
-   <img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-linkedin-3.png" alt="vscode" width="45" height="45"/>
+   <img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-linkedin-2.png" alt="vscode" width="45" height="45"/>
   </a>
 </p>
 
