@@ -16,4 +16,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" alt="bash" width="45" height="45"/>
 <img src="https://firebase.google.com/static/downloads/brand-guidelines/SVG/logo-logomark.svg" alt="php" width="45" height="45"/>
 <img src="https://www.svgrepo.com/show/43101/java.svg" alt="php" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="php" width="45" height="45"/>
 </p>
