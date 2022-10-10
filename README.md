@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Xamarin, C#.**
 
-- 💬 Ask me about **CPP, JAVA, Android.**
+- 💬 Ask me about **Cpp, Java, Android.**
 
 - 📫 How to reach me **anurag.ad32@gmail.com**
 
