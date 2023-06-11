@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working at **Ventla India.**
 
-- 🌱 I’m currently learning **Xamarin, C#.**
+- 🌱 I’m currently learning **.NET MAUI.**
 
-- 💬 Ask me about **Cpp, Java, Android.**
+- 💬 Ask me about **Xamarin, C#, Cpp, Java, Android, iOS.**
 
 - 📫 How to reach me **anurag.ad32@gmail.com**
 
