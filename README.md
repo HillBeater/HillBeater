@@ -1,66 +1,79 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)  
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="width: 100%; height: auto;" />  
 <h1 align="center">Hi 👋, I'm Anurag</h1>  
-<h3 align="center">A passionate Android application developer from India</h3>  
+<h3 align="center">A passionate Android Application Developer from India</h3>  
 
-<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">  
+<br>
 
-<p align="left">  
-  <img src="https://komarev.com/ghpvc/?username=hillbeater&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />  
-</p>  
+<img align="right" alt="Coding" width="180" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">  
+
 
 - 🔭 **Currently working at**: **Ventla India**  
-- 🌱 **Currently learning**:Jetpack Compose  
-- 💬 **Ask me about**: Android, Kotlin, C#  
+- 🌱 **Currently learning**: Jetpack Compose  
+- 💬 **Ask me about**: Android, Kotlin, XML, C#  
 - 📫 **How to reach me**: [anurag.ad32@gmail.com](mailto:anurag.ad32@gmail.com)  
 - ⚡ **Fun fact**: I am ambitious and love solving problems.  
 
 ---
 
-### Connect with me:  
-<p align="left">  
-  <a href="https://twitter.com/anuragdhiman19" target="_blank">  
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />  
-  </a>  
-  <a href="https://www.linkedin.com/in/anuragdhiman74" target="_blank">  
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />  
-  </a>  
-  <a href="https://instagram.com/hillbeater" target="_blank">  
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />  
-  </a>  
-</p>  
+### Feel Free to Contact me.....
+
+<p align="center">
+	<a href="https://github.com/hillbeater"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/anuragdhiman74/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://instagram.com/hillbeater"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+  <a href="[https://www.facebook.com/imakash3011/](https://www.facebook.com/iam.anurag007)"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
+	<a href="https://twitter.com/anuragdhiman19"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/x.png"/></a>
+</p>
 
 ---
 
-### Languages and Tools:  
-<p align="left">  
-  <a href="https://kotlinlang.org/" target="_blank">  
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40" />  
-  </a>  
-  <a href="https://developer.android.com" target="_blank">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" />  
-  </a>  
-  <a href="https://www.w3schools.com/cpp/" target="_blank">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />  
-  </a>  
-  <a href="https://www.w3schools.com/cs/" target="_blank">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />  
-  </a>  
-  <a href="https://firebase.google.com/" target="_blank">  
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />  
-  </a>  
-  <a href="https://www.java.com" target="_blank">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />  
-  </a>  
-  <a href="https://www.mysql.com/" target="_blank">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />  
-  </a>  
-</p>  
+### Programming Languages and Tools....
+
+<p align="center">
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/kotlin.png" alt="Kotlin"/>
+	<img width="10%" style="padding:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/xml-file.png" alt="XML"/>
+	<img width="10%" style="padding:5px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/c-sharp-logo.png" alt="C#"/>
+	<img width="10%" style="padding:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"/>
+</p>
 
 ---
 
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hillbeater&show_icons=true&locale=en&layout=compact" alt="Top Languages" />  
-</p>  
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=hillbeater&show_icons=true&locale=en" alt="GitHub Stats" />  
-</p>  
+### Github Analytics....
+
+<br>
+
+  
+  
+  
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=hillbeater&theme=cobalt&show_icons=true&count_private=true" />
+  <br></br>
+  <img  alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hillbeater&theme=dark&hide_border=true" />
+
+
+  
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hillbeater&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
+<br> 
+
+---
+
+### Profile Visitor Count....
+    
+<!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/hillbeater/count.svg" />  
+</p>
