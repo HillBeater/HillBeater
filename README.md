@@ -6,10 +6,9 @@
 
 <img align="right" alt="Coding" width="180" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">  
 
-
-- 🔭 **Currently working at**: **Ventla India**  
+- 🔎 **Actively looking for Android Developer opportunities**  
 - 🌱 **Currently learning**: Jetpack Compose  
-- 💬 **Ask me about**: Android, Kotlin, XML, C#  
+- 💬 **Ask me about**: Android, Kotlin, XML, MVVM, Google Play Console and Firebase.  
 - 📫 **How to reach me**: [anurag.ad32@gmail.com](mailto:anurag.ad32@gmail.com)  
 - ⚡ **Fun fact**: I am ambitious and love solving problems.  
 
@@ -21,7 +20,7 @@
 	<a href="https://github.com/hillbeater"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/anuragdhiman74/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://www.instagram.com/hillbeater/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-  <a href="https://www.facebook.com/iam.anurag007"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
+    <a href="https://www.facebook.com/iam.anurag007"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
 	<a href="https://x.com/Hillbeater"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/x.png"/></a>
 </p>
 
@@ -44,9 +43,6 @@
 
 <br>
 
-  
-  
-  
 <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
@@ -55,25 +51,14 @@
   <br></br>
   <img  alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hillbeater&theme=dark&hide_border=true" />
 
-
-  
 </td>
 
 <td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hillbeater&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   
-  </td>
+</td>
 </tr>
 </table>
 
-<br> 
-
----
-
-### Profile Visitor Count....
-    
-<!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/hillbeater/count.svg" />  
-</p>
+<br>
